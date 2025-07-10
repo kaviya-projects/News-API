@@ -1,0 +1,45 @@
+{
+  "status": "ok",
+  "totalResults": 3,
+  "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "John Doe",
+      "title": "India launches new AI initiative to boost digital economy",
+      "description": "The Indian government has unveiled a national AI mission aimed at accelerating innovation in healthcare, agriculture, and education.",
+      "url": "https://techcrunch.com/ai-india-launch",
+      "urlToImage": "https://techcrunch.com/image1.jpg",
+      "publishedAt": "2025-07-10T10:00:00Z",
+      "content": "The initiative will fund startups and research centers to boost India's digital capabilities..."
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "Jane Smith",
+      "title": "New 5G technology rollout begins in major Indian cities",
+      "description": "Major telecom providers in India have begun rolling out 5G services with promises of faster speeds and better coverage.",
+      "url": "https://bbc.com/tech/5g-india",
+      "urlToImage": "https://bbc.com/image2.jpg",
+      "publishedAt": "2025-07-09T18:30:00Z",
+      "content": "5G technology promises download speeds of up to 10Gbps and ultra-low latency..."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hindustan Times"
+      },
+      "author": "Ravi Kumar",
+      "title": "ISRO to launch AI-based satellite for disaster management",
+      "description": "ISRO is preparing to launch an AI-powered satellite that can detect natural disasters and send real-time alerts.",
+      "url": "https://hindustantimes.com/tech/isro-ai-satellite",
+      "urlToImage": "https://hindustantimes.com/image3.jpg",
+      "publishedAt": "2025-07-08T14:15:00Z",
+      "content": "The satellite uses machine learning algorithms to predict floods, landslides, and cyclones..."
+    }
+  ]
+}
